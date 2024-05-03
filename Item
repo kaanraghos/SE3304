@@ -1,0 +1,8 @@
+300: file:///home/user/Documents/VPProjects/Item/
+200: filename content-length last-modified file-type
+201: Book.java 148 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
+201: Catalog.java 65 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
+201: DVD.java 108 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
+201: Item.java 114 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
+201: Magazine.java 105 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
+201: ReservationItem.java 189 Fri,%2003%20May%202024%2010:12:26%20GMT FILE 
